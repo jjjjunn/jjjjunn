@@ -5,7 +5,8 @@
 - 🐍 I'm a Python programmer from South Korea  
 - 🎯 I aim to become a backend/full-stack developer  
 - 🌱 I’m currently learning: AI/ML, FastAPI, Python, AWS, etc.  
-- 📫 Contact: niceqjawns@gmail.com  
+- 📫 Contact: niceqjawns@gmail.com
+- My Blog: https://puppy-foot-it.tistory.com/
 
 ---
 ## 📄 Certification
