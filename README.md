@@ -34,6 +34,9 @@
 ![Gradio](https://img.shields.io/badge/Gradio-17A97C?style=flat-square&logo=Gradio&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FFB300?style=flat-square&logo=cloudsmith&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=Google-Sheets&logoColor=white)
+
 
 
 ### 🚀 Frameworks & Tools
