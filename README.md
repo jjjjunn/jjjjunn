@@ -36,6 +36,7 @@
 ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FFB300?style=flat-square&logo=cloudsmith&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=Google-Sheets&logoColor=white)
+![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 
 
 
