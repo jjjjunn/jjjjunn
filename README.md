@@ -2,9 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=200&text=Welcome%20to-nl-Recordian's%20GitHub!)
 
 ## 👋 About Me
-- 🐍 I'm a Python programmer from South Korea  
-- 🎯 I aim to become a backend/full-stack developer  
-- 🌱 I’m currently learning: AI/ML, FastAPI, Python, AWS, etc.  
+- 🐍 I'm a Full-Stack programmer from South Korea  
+- 🎯 I aim to become a better full-stack developer  
+- 🌱 I’m currently learning: AI/ML, FastAPI, Python, AWS, JS, Next.js, etc.  
 - 📫 Contact: niceqjawns@gmail.com
 - My Blog: https://puppy-foot-it.tistory.com/
 
@@ -26,6 +26,8 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🧪 AI & Data Science
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -39,12 +41,12 @@
 ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 
 
-
 ### 🚀 Frameworks & Tools
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### 🛠️ IDE & DevTools
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
